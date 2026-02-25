@@ -1,9 +1,9 @@
-# Projeto de cadastro de alunos
+# Projeto de cadastro escolar
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 	![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 
 ## Sobre o Projeto
-Este **Sistema de Cadastro de Alunos** é uma aplicação FullStack desenvolvida como um projeto de revisão de conteúdo no curso de Desenvolvimento de Sistemas, oferecido pelo SENAI Sorocaba - Gaspar Ricardo Junior, ministrado pelo Prof. [Vedilson Prado](https://github.com/vedilsonprado). O objetivo do projeto é consolidar conhecimentos em criação de API RestFull, manipulação de Banco de Dados Relacional e integração com o Frontend usando JavaScript.
+Este **Sistema de Cadastro Escolar** é uma aplicação FullStack desenvolvida como um projeto de revisão de conteúdo no curso de Desenvolvimento de Sistemas, oferecido pelo SENAI Sorocaba - Gaspar Ricardo Junior, ministrado pelo Prof. [Vedilson Prado](https://github.com/vedilsonprado). O objetivo do projeto é consolidar conhecimentos em criação de API RestFull, manipulação de Banco de Dados Relacional e integração com o Frontend usando JavaScript.
 
 A aplicação permite o gerenciamento completo (CRUD) de alunos, incluindo validações de regras de negócio e persistência de dados.
 
@@ -45,12 +45,18 @@ CREATE DATABASE db_cadastro_aluno;
 
 ## Funcionalidades
 [x] Cadastrar Aluno
+[x] Cadastrar Turma
+[x] Cadastrar Documento
 [x] Listar Aluno
+[x] Listar turma
+[x] Listar Documento
 [x] Editar Aluno
+[x] Editar Turma
+[x] Editar Documento
 [x] Excluir Aluno
+[x] Excluir Turma
+[x] Excluir Documento
 
 ---
 <p style="color: red;">Desenvolvedor(es)</p>
-[Vedilson Prado](https://br.linkedin.com/in/vedilson)
-
-
+[Stephanie Favero](https://www.linkedin.com/in/stephanie-mariana-de-camargo-favero-441036369/)
